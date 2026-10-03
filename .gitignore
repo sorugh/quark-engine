@@ -1,5 +1,4 @@
-export/
-.vscode/
+build/
 APIStuff.hx
 .DS_STORE
 .haxelib/
