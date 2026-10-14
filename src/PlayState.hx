@@ -1544,7 +1544,7 @@ class PlayState extends MusicBeatState
 		});
 	}
 
-	var previousFrameTime:Int = 0;
+	var previousFrameTime:Float = 0;
 	var songTime:Float = 0;
 
 	function startSong():Void
